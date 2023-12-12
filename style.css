@@ -1,0 +1,40 @@
+#section1{
+    background-image: url(images/bg1.jpg);
+} 
+#section6-block{
+    background-image: url(images/aerial-view-green-forest.jpg);
+}
+#section8{
+    background-image: url(images/bg2.jpg);
+}
+#section10{
+    background-image: url(images/bg3.jpg);
+}
+
+
+.bg-grey{
+    background-color: rgb(236, 236, 236);
+}
+.bg-green{
+    background-color: #8AAA9A;
+}
+.border-green{
+    border: #8AAA9A;
+}
+
+.bg-cover{
+    background-size: cover;
+}
+.bg-pos-bottom-center{
+    background-position: bottom center;
+}
+.mr-1{
+    margin-right: 5px;
+}
+
+.w-200px{
+    width: 200px;
+}
+.h-200px{
+    height: 200px;
+}
